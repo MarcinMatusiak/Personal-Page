@@ -639,6 +639,7 @@ input[id="name"] {
         -ms-flex-direction: column;
         flex-direction: column;
         width: 100%;
+        min-height: 30vw;
     }
 
     [aria-controls="menu-list"] {
